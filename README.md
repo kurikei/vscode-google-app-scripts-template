@@ -1,1 +1,1 @@
-# vscode-google-app-scripts
+# vscode-google-app-scripts-template
